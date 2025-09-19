@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I’m osklc
 
-<!--
-**osklc/osklc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a first-year Software Engineering student
+💻 Still a beginner in programming, but excited to learn and grow
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of the projects I upload are small programs I built while learning.
+I know they’re not very professional yet, but I share them to track my progress and show my learning journey.
+
+📌 Quick Info
+
+🔭 I’m currently working on: basic C and Python projects
+
+🌱 I’m currently learning: programming fundamentals & problem-solving
+
+👯 I’m looking to collaborate on: beginner-friendly projects
+
+🤔 I’m looking for help with: writing cleaner and more efficient code
+
+💬 Ask me about: my learning journey or beginner struggles
+
+📫 How to reach me: osklcmail@gmail.com
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I see every “bug” as a puzzle to solve 🧩
