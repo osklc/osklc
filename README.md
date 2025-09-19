@@ -26,4 +26,8 @@ I know they’re not very professional yet, but I share them to track my progres
 
 
 <h3 align="left">Languages and Tools:</h3>
-[![Python](https://skillicons.dev/icons?i=py,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
