@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm osklc</h1>
+<h1 align="left">Hi 👋, I'm Osman</h1>
 <h3 align="left">🎓 I’m a first-year Software Engineering student 💻 Still a beginner in programming, but excited to learn and grow</h3>
 
 <h3 align="left">🚀 About Me:</h3>
