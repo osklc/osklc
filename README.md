@@ -20,8 +20,10 @@ I know they’re not very professional yet, but I share them to track my progres
 
 💬 Ask me about: my learning journey or beginner struggles
 
-📫 How to reach me: [gmail](osklcmail@gmail.com)
+📫 How to reach me: [gmail][1]
 
 😄 Pronouns: he/him
 
 ⚡ Fun fact: I see every “bug” as a puzzle to solve 🧩
+
+[1]:osklcmail@gmail.com
