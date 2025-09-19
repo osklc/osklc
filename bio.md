@@ -1,4 +1,4 @@
-👋 Hi, I’m osklc
+#👋 Hi, I’m osklc
 
 🎓 I’m a **first-year** Software Engineering student
 💻 Still a beginner in programming, but excited to learn and grow
