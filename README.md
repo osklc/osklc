@@ -17,13 +17,12 @@ I know they’re not very professional yet, but I share them to track my progres
 
 - 💬 Ask me about: **my learning journey or beginner struggles**
 
+- 📫 How to reach me: osklcmail@gmail.com
+
 - 😄 Pronouns: **he/him**
 
 - ⚡ Fun fact: **I see every “bug” as a puzzle to solve 🧩**
 
-
-<h3 align="left">Connect with me:</h3>
-<a href=https://mail.google.com/mail/?view=cm&fs=1&to=osklcmail@gmail.com target="_blank" rel="noreferrer">
 
 
 <h3 align="left">Languages and Tools:</h3>
