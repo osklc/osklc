@@ -1,6 +1,6 @@
-👋 Hi, I’m osklc
+#👋 Hi, I’m osklc
 
-🎓 I’m a first-year Software Engineering student
+🎓 I’m a **first-year** Software Engineering student
 💻 Still a beginner in programming, but excited to learn and grow
 
 🚀 About Me
@@ -20,7 +20,7 @@ I know they’re not very professional yet, but I share them to track my progres
 
 💬 Ask me about: my learning journey or beginner struggles
 
-📫 How to reach me: osklcmail@gmail.com
+📫 How to reach me: [gmail](osklcmail@gmail.com)
 
 😄 Pronouns: he/him
 
