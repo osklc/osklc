@@ -26,6 +26,6 @@ I know they’re not very professional yet, but I share them to track my progres
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=py,c,html,css,qt,git,vscode,pycharm,unreal,ps,pr,ae," />
+    <img src="https://skillicons.dev/icons?i=c,html,css,git,py,qt,vscode,pycharm,unreal,ps,pr,ae," />
   </a>
 </p>
