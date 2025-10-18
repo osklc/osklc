@@ -19,8 +19,6 @@ I know they’re not very professional yet, but I share them to track my progres
 
 - 📫 How to reach me: osklcmail@gmail.com
 
-- ⚡ Fun fact: **I see every “bug” as a puzzle to solve 🧩**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
